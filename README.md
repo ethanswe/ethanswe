@@ -20,7 +20,7 @@ SQLAlchemy/Flask/Python Backend, React/JavaScript Frontend => https://github.com
 
 ## Want to chat?
 
-Feel free to email me at ethanaschnitzer@gmail.com! 
+Feel free to email me at ethanaschnitzer@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/ethan-schnitzer-894889b8/
 <!--
 **ethanswe/ethanswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
