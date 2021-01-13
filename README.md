@@ -4,11 +4,11 @@ I'm a software engineer from Scottdale, Arizona. I have a passion for music, tra
 
 ## Fun Fact:
 
-Outside of software engineering, I'm also an audio engineer! This was part of the reason why I ventured into becoming a software engineer. 😄 
+Outside of software engineering, I'm also an audio engineer! 😄 
 
 ## I'm currently looking to:
 
-Find an incredible company that will help me continue to learn and provide mentorship to become the best software engineer I can be! 
+Find an incredible company that will help me continue to learn and provide mentorship so I can become the best software engineer I can be! 
 
 ## Before Engineering...
 
