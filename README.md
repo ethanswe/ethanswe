@@ -1,4 +1,4 @@
-### Hi, I'm Ethan! 👋
+### Hello World, I'm Ethan! 👋
 
 I'm a software engineer from Scottdale, Arizona. I have a passion for music, travel, and all things financial. I'm proficient in JavaScript, PostgreSQL, React, CSS, HTML5, but have experience and exposure in Python, SQLAlchemy, Flask, Redux, Express & Pug. 
 
