@@ -4,7 +4,7 @@ I'm a software engineer from Scottdale, Arizona. I have a passion for music, tra
 
 ## Fun Fact...
 
-Outside of software engineering, I'm also an audio engineer! I also have been trading cryptocurrency for 5 years and love learning about new ICO's. 😄 
+Outside of software engineering, I'm an audio engineer! I also have been trading cryptocurrency for 5 years and love learning about new ICO's. 😄 
 
 ## I'm currently looking to...
 
