@@ -1,12 +1,12 @@
-### Hello World, I'm Ethan! 👋
+### console.log("Hello World, I'm Ethan!") // 👋
 
 I'm a software engineer from Scottdale, Arizona. I have a passion for music, travel, and all things financial. I'm proficient in JavaScript, PostgreSQL, React, CSS, HTML5, but have experience and exposure in Python, SQLAlchemy, Flask, Redux, Express & Pug. 
 
-## Fun Fact:
+## Fun Fact...
 
 Outside of software engineering, I'm also an audio engineer! I also have been trading cryptocurrency for 5 years and love learning about new ICO's. 😄 
 
-## I'm currently looking to:
+## I'm currently looking to...
 
 Find an incredible company that will help me continue to learn and provide mentorship so I can become the best software engineer I can be! 
 
@@ -14,7 +14,7 @@ Find an incredible company that will help me continue to learn and provide mento
 
 I was an entrepreneur in the tech space and graduated with a degree in Finance. 
 
-## Most Recent Project Software Stack:
+## Most Recent Project Software Stack...
 
 SQLAlchemy/Flask/Python Backend, React/JavaScript Frontend => https://github.com/ethanswe/Crypto-Club
 
