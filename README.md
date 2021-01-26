@@ -16,7 +16,7 @@ I was an entrepreneur in the tech space and graduated with a degree in Finance.
 
 ## Most Recent Project Software Stack...
 
-SQLAlchemy/Flask/Python Backend/Kraken API Backend, React JS Frontend => https://github.com/ethanswe/Crypto-Club
+SQLAlchemy/Flask/Python/Kraken API Backend, React JS Frontend => https://github.com/ethanswe/Crypto-Club
 
 ## Want to chat?
 
