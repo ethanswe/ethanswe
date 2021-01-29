@@ -12,7 +12,7 @@ Find an incredible company that will help me continue to learn and provide mento
 
 ## Before Engineering...
 
-I was an entrepreneur in the tech space and graduated with a degree in Finance. I also had the opportunity to study at Stanford's Graduate School of Business and won a case competition. 
+I was an entrepreneur in the tech space and graduated with a degree in Finance. I also had the opportunity to study at Stanford's Graduate School of Business and won a case competition as one of the youngest students in the program. 
 
 ## Most Recent Project Software Stack...
 
