@@ -8,7 +8,7 @@ Outside of software engineering, I'm an audio engineer! I also have been trading
 
 ## I'm currently looking to...
 
-Find an incredible company that will help me continue to learn and provide mentorship so I can become the best software engineer I can be! 
+Find an incredible company that will give me the opportunity to continue to learn so I can become the best software engineer I can be! 
 
 ## Before Engineering...
 
