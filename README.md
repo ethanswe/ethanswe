@@ -9,5 +9,4 @@ Outside of software engineering, I'm an audio engineer! I also have been trading
 
 I was an entrepreneur in the tech space and graduated with a degree in Finance. I also had the opportunity to study at Stanford's Graduate School of Business and won a case competition as one of the youngest students in the program. 
 
-**ethanswe/ethanswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
