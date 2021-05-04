@@ -1,27 +1,14 @@
 ### Hello World, I'm Ethan! 👋
 
-I'm a software engineer from Scottdale, Arizona. I have a passion for music, mentorship, travel, disruptive technology, and all things finance. I'm proficient in JavaScript, PostgreSQL, SQL, React, CSS3, HTML5, but have experience and exposure in Solidity, web3.JS, Python3, SQLAlchemy, Flask, Redux, Express & Pug. 
-
+I'm a software engineer from Scottdale, Arizona. I have a passion for music, mentorship, travel, disruptive technology, and all things finance. 
 ## Fun Fact...
 
 Outside of software engineering, I'm an audio engineer! I also have been trading cryptocurrency for 6 years and love learning about new disruptive ICO's. 😄 
-
-## I'm currently looking to...
-
-Find an incredible company that will give me the opportunity to continue to learn so I can become the best software engineer I can be! 
 
 ## Before Engineering...
 
 I was an entrepreneur in the tech space and graduated with a degree in Finance. I also had the opportunity to study at Stanford's Graduate School of Business and won a case competition as one of the youngest students in the program. 
 
-## Most Recent Project Software Stack...
-
-SQLAlchemy/Flask/Python/Kraken REST API Backend, React JS Frontend => https://github.com/ethanswe/Crypto-Club
-
-## Want to chat?
-
-Feel free to email me at ethanaschnitzer@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/ethan-schnitzer-894889b8/
-<!--
 **ethanswe/ethanswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
