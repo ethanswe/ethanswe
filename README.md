@@ -1,9 +1,6 @@
 ### Hello World, I'm Ethan! 👋
 
 I'm a software engineer from Scottdale, Arizona. I have a passion for music, mentorship, travel, disruptive technology, and all things finance. 
-## Fun Fact...
-
-Outside of software engineering, I'm an audio engineer! I also have been trading cryptocurrency for 6 years and love learning about new disruptive ICO's. 😄 
 
 ## Before Engineering...
 
