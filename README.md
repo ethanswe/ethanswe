@@ -1,9 +1,17 @@
-### Hello World, I'm Ethan! 👋
+# Hello World, I'm Ethan 👋
 
-I'm a software engineer from Scottdale, Arizona. I have a passion for music, mentorship, travel, disruptive technology, and all things finance. 
+Software engineer based in Scottsdale. I build at the intersection of AI, backend systems, and crypto.
 
-## Before Engineering...
+## Before Engineering
 
-I was an entrepreneur in the tech space and graduated with a degree in Finance. I also had the opportunity to study at Stanford's Graduate School of Business and won a case competition as one of the youngest students in the program. 
+I started as an entrepreneur in tech and earned my degree in Finance from the University of Arizona. Along the way, I studied at Stanford's Graduate School of Business and took first place in the Summer Institute case competition as one of the youngest in the room.
 
+## Now
 
+I ship in Python and Rust. I architect distributed systems that move real money, design multi-agent AI workflows, and operate at the edge of on-chain infrastructure. My work spans high-throughput data pipelines, LLM orchestration, and quant-grade trading systems.
+
+Every project comes back to the same thesis: own the stack, compound the edge.
+
+## What I Care About
+
+AI that ships. Backend that scales. Crypto that matters. Building things that outlast me.
